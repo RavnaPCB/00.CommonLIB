@@ -1,0 +1,21 @@
+(footprint "SP-[2.0x0.6]" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 626414C1)
+  (descr "SP-[2.0x0.6]")
+  (tags "SP-[2.0x0.6]")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0 180) (layer "F.Fab") hide
+    (effects (font (size 0.254 0.254) (thickness 0.0508)))
+    (tstamp ef5d326a-4215-4c22-9596-0b903c191829)
+  )
+  (fp_text value "Val**" (at 0 0 180) (layer "F.Fab") hide
+    (effects (font (size 0.254 0.254) (thickness 0.0508)))
+    (tstamp 25c3abd2-86e2-42df-922b-02cccfdac06a)
+  )
+  (pad "1" smd roundrect (at 0 0) (size 2 0.6) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 26922e9a-aa72-4e37-9f15-15ec5b2948e5))
+  (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+    (offset (xyz 0.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

@@ -1,0 +1,16 @@
+(footprint "TP-[R0402-PAD]" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 62641490)
+  (descr "TP-[R0402-PAD]")
+  (tags "TP-[R0402-PAD]")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0 180) (layer "F.Fab") hide
+    (effects (font (size 0.254 0.254) (thickness 0.0508)))
+    (tstamp b667574c-c81b-49c7-9d50-d4307188a65f)
+  )
+  (fp_text value "Val**" (at 0 0 180) (layer "F.Fab") hide
+    (effects (font (size 0.254 0.254) (thickness 0.0508)))
+    (tstamp 209752d2-ab0a-457e-b8f1-e418116a1eea)
+  )
+  (pad "1" smd roundrect (at 0 0) (size 0.56 0.62) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp de3d7944-a785-4cf5-a01e-fc9798d0aa23))
+)
