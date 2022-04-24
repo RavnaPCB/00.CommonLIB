@@ -1,8 +1,7 @@
 00.CommonLIB includes:
 
- - Symbol Library
+ - Custom Symbol Library
 
  - Footprint Library
 
  - 3D Models
- 
