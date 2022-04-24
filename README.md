@@ -1,5 +1,3 @@
-00.CommonLIB includes:
-
  - Custom Symbol Library
 
  - Footprint Library
