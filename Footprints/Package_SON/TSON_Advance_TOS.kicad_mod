@@ -1,6 +1,6 @@
 (footprint "TSON_Advance_TOS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626422B3)
+  (tedit 6266E688)
   (descr "TSON_Advance_TOS")
   (tags "TSON_Advance_TOS")
   (attr through_hole)
@@ -33,7 +33,7 @@
   (pad "7" smd rect (at 1.778 -0.325001 90) (size 0.381 0.6604) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 581bbb37-0fa6-419c-8bc9-ea0a7734f6c4))
   (pad "8" smd rect (at 1.778 -0.974999 90) (size 0.381 0.6604) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b14d04a-c100-4215-bd88-8f59757360d0))
   (pad "8" smd rect (at 0.415099 0.00475 90) (size 2.5905 2.230198) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c9f84b18-f86a-43ef-872a-c464a1cdbc6b))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SON/TSON_Advance_TOS.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SON/TSON_Advance_TOS.step"
     (offset (xyz 0 0.0127 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

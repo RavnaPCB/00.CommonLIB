@@ -1,6 +1,6 @@
 (footprint "C_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223F5C0)
+  (tedit 6266E031)
   (descr "C_0805")
   (tags "C_0805")
   (attr smd)
@@ -24,7 +24,7 @@
   (fp_line (start 1.6 0.9) (end 1.6 -0.9) (layer "F.Fab") (width 0.0508) (tstamp c87d41e7-b927-4152-a0c7-4a02a598c4ea))
   (pad "1" smd roundrect (at -0.95 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a6291684-d2de-41b1-a335-3cc12b88936c))
   (pad "2" smd roundrect (at 0.95 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e6b7516c-5dc8-475a-b134-307107ae845d))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Capacitor/C_0805.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Capacitor/C_0805.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

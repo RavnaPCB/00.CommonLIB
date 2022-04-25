@@ -1,6 +1,6 @@
 (footprint "HTSSOP-16-[P0.65]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642339)
+  (tedit 6266E63D)
   (descr "HTSSOP-16-[P0.65]")
   (tags "HTSSOP-16-[P0.65]")
   (attr through_hole)
@@ -179,7 +179,7 @@
   (pad "15" smd rect (at 2.8194 -1.624998) (size 1.6764 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3463e7ad-39f2-49cf-bb77-f97fba57a2de))
   (pad "16" smd rect (at 2.8194 -2.274999) (size 1.6764 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 595d96db-dc31-42c8-b80b-fb1a472f729b))
   (pad "EPAD" smd rect (at 0 0) (size 2.46 2.31) (layers "F.Cu") (tstamp d3df069d-beaf-4549-9369-15c020cd7516))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SO/HTSSOP-16-[P0.65].stp"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SO/HTSSOP-16-[P0.65].stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

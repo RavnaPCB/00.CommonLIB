@@ -1,6 +1,6 @@
 (footprint "WDFN-10L-[3x3]-[P0.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642372)
+  (tedit 6266E600)
   (descr "WDFN-10L-[3x3]-[P0.5]")
   (tags "WDFN-10L-[3x3]-[P0.5]")
   (attr smd)
@@ -38,7 +38,7 @@
   (pad "9" smd roundrect (at 1.445 -0.5) (size 0.81 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 9a339820-05d9-43ab-ab07-94108244033f))
   (pad "10" smd roundrect (at 1.445 -1) (size 0.81 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp c303c9aa-1d48-41ce-9452-f083b66c35ab))
   (pad "11" smd rect (at 0 0) (size 1.63 2.48) (layers "F.Cu" "F.Mask") (tstamp 77185ab9-d8d0-4284-8d6e-7c198c05a0eb))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_QFN_DFN/WDFN-10L-[3x3]-[P0.5].step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_QFN_DFN/WDFN-10L-[3x3]-[P0.5].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

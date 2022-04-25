@@ -1,6 +1,6 @@
 (footprint "CUI_MD-30SM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6230DCE6)
+  (tedit 6266E3F5)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
     (effects (font (size 0.508 0.508) (thickness 0.1016)))
@@ -24,7 +24,7 @@
   (pad "S1" thru_hole circle (at 6.7 1.1) (size 3.516 3.516) (drill 2.5) (layers *.Cu *.Mask) (tstamp 195c23c1-912c-4756-bf30-3050a1dd2f5a))
   (pad "S2" thru_hole circle (at -6.7 1.1) (size 3.516 3.516) (drill 2.5) (layers *.Cu *.Mask) (tstamp e5fe72f3-2e63-4b01-9179-e8b43eb80e37))
   (pad "S3" thru_hole oval (at 0 2) (size 3.5 1.75) (drill oval 2.5 1) (layers *.Cu *.Mask) (tstamp c5c824a9-4689-46e3-b33a-838b2dcb23ec))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Connector_DIN/CUI_MD-30SM.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Connector_DIN/CUI_MD-30SM.step"
     (offset (xyz -6.985 -6.731 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

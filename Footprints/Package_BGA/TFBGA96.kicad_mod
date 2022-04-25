@@ -1,6 +1,6 @@
 (footprint "TFBGA96" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626423E5)
+  (tedit 6266E5AF)
   (descr "TF_BGA96")
   (tags "TF_BGA96")
   (attr smd)
@@ -124,7 +124,7 @@
   (pad "T7" smd circle (at 1.6 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cbd8faed-e1f8-4406-87c8-58b2c504a5d4))
   (pad "T8" smd circle (at 2.4 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2c93195-af12-4d3e-acdf-bdd0ff675c24))
   (pad "T9" smd circle (at 3.2 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 240e07e1-770b-4b27-894f-29fd601c924d))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_BGA/TFBGA96.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_BGA/TFBGA96.step"
     (offset (xyz 0 0 -0.4826))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,6 +1,6 @@
 (footprint "D_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 623871EC)
+  (tedit 6266E500)
   (descr "D_0805")
   (tags "D_0805")
   (attr smd)
@@ -18,7 +18,7 @@
   (fp_rect (start -1.5 0.75) (end -0.7 -0.75) (layer "F.Fab") (width 0.1524) (fill solid) (tstamp 70ae59b6-9195-47d5-95b0-0a8e3589938d))
   (pad "1" smd roundrect (at -0.9375 0) (size 0.975 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 829846b9-a64e-4a22-be06-85d4ef2a7673))
   (pad "2" smd roundrect (at 0.9375 0) (size 0.975 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9f51c438-aeb5-4d68-b714-da7940366974))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Diode/D_0805.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Diode/D_0805.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

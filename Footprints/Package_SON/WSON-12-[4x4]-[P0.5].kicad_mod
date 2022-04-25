@@ -1,6 +1,6 @@
 (footprint "WSON-12-[4x4]-[P0.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642158)
+  (tedit 6266E7B6)
   (descr "WSON-12-[4x4]-[P0.5]")
   (tags "WSON-12-[4x4]-[P0.5]")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad "11" smd roundrect (at 1.9375 -0.75) (size 0.875 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e9c204df-1363-4c8b-9927-006b30a9cc85))
   (pad "12" smd roundrect (at 1.9375 -1.25) (size 0.875 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 52d5e3b3-1950-4b36-bc02-342b19d7a7fe))
   (pad "13" smd rect (at 0 0) (size 2.6 3) (layers "F.Cu" "F.Mask") (tstamp 4552e33a-a6da-446a-b8c6-e657a5d3d8e6))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SON/WSON-12-[4x4]-[P0.5].stp"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SON/WSON-12-[4x4]-[P0.5].stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

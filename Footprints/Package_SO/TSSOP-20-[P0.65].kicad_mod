@@ -1,6 +1,6 @@
 (footprint "TSSOP-20-[P0.65]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626422FF)
+  (tedit 6266E664)
   (descr "TSSOP-20-[P0.65]")
   (tags "TSSOP-20-[P0.65]")
   (attr through_hole)
@@ -75,7 +75,7 @@
   (pad "19" smd rect (at 2.951749 -2.274999) (size 1.4077 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 60aae65a-264e-468d-b044-b49f71acbfe5))
   (pad "20" smd rect (at 2.951749 -2.924998) (size 1.4077 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12938643-23eb-459b-b3a7-66e54527f212))
   (pad "EPAD" smd rect (at 0 0) (size 3.0988 4.2926) (layers "F.Cu" "F.Mask") (tstamp 43197cc2-8c47-47ca-8087-82b60f0952a5))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SO/TSSOP-20-[P0.65].step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SO/TSSOP-20-[P0.65].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,6 +1,6 @@
 (footprint "WFBGA153" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626423D8)
+  (tedit 6266E5BA)
   (descr "WFBGA153")
   (tags "WFBGA153, eMMC")
   (attr smd)
@@ -179,7 +179,7 @@
   (pad "P12" smd circle (at 2.25 3.25 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a567ddb-661a-41fc-9c6f-25358b0aaba6))
   (pad "P13" smd circle (at 2.75 3.25 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a396e41-802a-4878-b135-128274f9e33c))
   (pad "P14" smd circle (at 3.25 3.25 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8052cd4-ebc4-4eb1-b2c2-fd93c0c9bafb))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_BGA/WFBGA153.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_BGA/WFBGA153.step"
     (offset (xyz 0 0 -0.254))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

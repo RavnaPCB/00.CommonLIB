@@ -1,6 +1,6 @@
 (footprint "TSSOP-56-[6.1x14]-[P0.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626422F1)
+  (tedit 6266E66D)
   (descr "TSSOP-56-[6.1x14]-[P0.5]")
   (tags "TSSOP-56-[6.1x14]-[P0.5]")
   (attr smd)
@@ -79,7 +79,7 @@
   (pad "54" smd roundrect (at 3.7125 -5.75) (size 1.475 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 01109df2-a547-41be-aaa1-8569bce7a171))
   (pad "55" smd roundrect (at 3.7125 -6.25) (size 1.475 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 413255a5-d6a5-4a31-859b-18f4f671498b))
   (pad "56" smd roundrect (at 3.7125 -6.75) (size 1.475 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1b91e849-f04e-46f7-be0c-e48b25350f8d))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SO/TSSOP-56-[6.1x14]-[P0.5].step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SO/TSSOP-56-[6.1x14]-[P0.5].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,6 +1,6 @@
 (footprint "FM0H104ZF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6264243A)
+  (tedit 6266E0BD)
   (descr "FM0H104ZF")
   (tags "FM0H104ZF")
   (attr through_hole)
@@ -28,7 +28,7 @@
   (fp_rect (start -2.475 2.974998) (end -1.925 2.425) (layer "F.Fab") (width 0.1524) (fill solid) (tstamp 1127a889-88b4-49ac-abd7-4940ea18ef6a))
   (pad "1" thru_hole circle (at 0 0) (size 1.365 1.365) (drill 0.7) (layers *.Cu *.Mask) (tstamp ee679141-86dc-4d34-9c29-a247c395b0eb))
   (pad "2" thru_hole circle (at 5 0) (size 1.365 1.365) (drill 0.7) (layers *.Cu *.Mask) (tstamp c53991bf-bfaa-45c7-a49b-54999af2f95c))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Capacitor_P/FM0H104ZF.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Capacitor_P/FM0H104ZF.step"
     (offset (xyz -2.9972 3.5052 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

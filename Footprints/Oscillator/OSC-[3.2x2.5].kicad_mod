@@ -1,6 +1,6 @@
 (footprint "OSC-[3.2x2.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626423FE)
+  (tedit 6266E59B)
   (tags "SMD SMT crystal")
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.35) (layer "F.Fab")
@@ -19,7 +19,7 @@
   (pad "2" smd rect (at 1.1 0.85) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9574f9f1-9803-4e8c-a087-e40b7bb4b85a))
   (pad "3" smd rect (at 1.1 -0.85) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 53be3234-a1ce-44aa-a22e-88f87f57aeb5))
   (pad "4" smd rect (at -1.1 -0.85) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8aab68a0-7cf9-499a-92b2-e9f7e36e6857))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Oscillator/OSC-[3.2x2.5].wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Oscillator/OSC-[3.2x2.5].wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

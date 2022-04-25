@@ -1,6 +1,6 @@
 (footprint "SOT-23-5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622E703D)
+  (tedit 6266E870)
   (descr "SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
@@ -25,7 +25,7 @@
   (pad "3" smd roundrect (at -1.1375 0.95) (size 1.325 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp be86cf09-6e08-4eba-a0a7-b3a41fae1c45))
   (pad "4" smd roundrect (at 1.1375 0.95) (size 1.325 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp aca20f50-b13f-4998-8e32-0f7f56329af7))
   (pad "5" smd roundrect (at 1.1375 -0.95) (size 1.325 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 03f47f3f-92e0-48c0-9d6c-9fa3e96911e1))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SOT/SOT-23-5.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SOT/SOT-23-5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

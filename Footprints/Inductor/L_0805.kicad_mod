@@ -1,6 +1,6 @@
 (footprint "L_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62640CB3)
+  (tedit 6266E50F)
   (descr "L_0805")
   (tags "L_0805")
   (attr smd)
@@ -21,7 +21,7 @@
   (fp_rect (start -1.65 -0.75) (end 1.65 0.75) (layer "F.Fab") (width 0.0508) (fill none) (tstamp 90f46995-4dde-4fca-9045-b7cc5caea84e))
   (pad "1" smd roundrect (at -1 0) (size 1 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6043bbb6-505d-4345-bb37-9774fe8428b1))
   (pad "2" smd roundrect (at 1 0) (size 1 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6e83ad21-1891-4244-8804-164e4a878cdd))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Inductor/L_0805.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Inductor/L_0805.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

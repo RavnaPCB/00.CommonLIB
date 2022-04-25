@@ -1,6 +1,6 @@
-(footprint "2x08_Connector_1.00_Vertical_SMD" (version 20211014) (generator pcbnew)
+(footprint "2x08-Connector-[P1.00_V]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622537C9)
+  (tedit 6266E477)
   (tags "SMD 2x08 1.00mm")
   (attr smd)
   (fp_text reference "REF**" (at 0 0 90) (layer "F.Fab")
@@ -34,7 +34,7 @@
   (pad "14" smd rect (at 1.65 2.5) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 49a2157a-d518-4fd1-96ed-afc89a22ebeb))
   (pad "15" smd rect (at -1.65 3.5) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 14e79aaf-4c49-49dc-97be-c95933b324a4))
   (pad "16" smd rect (at 1.65 3.5) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b5603a7-48ad-47d9-99c1-568299df93ca))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Connector_SMD/Conn_2x08_1.00_Vertical_SMD.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Connector_SMD/2x08-Connector-[P1.00_V].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

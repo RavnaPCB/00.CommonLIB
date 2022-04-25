@@ -1,6 +1,6 @@
 (footprint "OSC-[3.2x1.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6264240D)
+  (tedit 6266E58E)
   (descr "OSC-3.2x1.5")
   (tags "OSC-3.2x1.5")
   (attr smd)
@@ -21,7 +21,7 @@
   (fp_rect (start -1.9 -1.05) (end 1.9 1.05) (layer "F.Fab") (width 0.0508) (fill none) (tstamp 2eace3b0-47a5-481f-b9a1-000ecc38df40))
   (pad "1" smd rect (at 1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 03df0b63-b05a-40b5-b02c-034aac0ea9d6))
   (pad "2" smd rect (at -1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa1cb147-b3d0-4105-8868-9d27d1a36de3))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Oscillator/OSC-[3.2x1.5].STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Oscillator/OSC-[3.2x1.5].STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,6 +1,6 @@
 (footprint "SMA-132134-10" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642A03)
+  (tedit 6266E416)
   (descr "SMA_132134-10")
   (tags "SMA_132134-10")
   (attr smd)
@@ -95,7 +95,7 @@
           (xy 3.555 -1.595)
         ) (width 0) (fill yes))
     ) (tstamp 5ac006e4-0a00-4a2c-9b80-42b42db85a43))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Connector_RF/SMA-132134-10.STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Connector_RF/SMA-132134-10.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

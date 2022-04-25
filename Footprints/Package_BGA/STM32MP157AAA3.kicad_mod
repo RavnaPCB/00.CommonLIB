@@ -1,6 +1,6 @@
 (footprint "STM32MP157AAA3" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62253737)
+  (tedit 6266E5A6)
   (descr "STM32MP157AAA3")
   (tags "STM32MP157AAA3")
   (attr smd)
@@ -471,7 +471,7 @@
   (pad "Y20" smd circle (at 6.799999 6.799999) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f57d1196-2dc3-432c-9fad-b9cc538e3568))
   (pad "Y21" smd circle (at 7.599999 6.799999) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9928b27-f0dd-48f8-acb2-613985806305))
   (pad "Y22" smd circle (at 8.399999 6.799999) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 813faead-ceff-4e83-9ea1-1fd9174fb14f))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_BGA/STM32MP157.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_BGA/STM32MP157.step"
     (offset (xyz 0 0 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

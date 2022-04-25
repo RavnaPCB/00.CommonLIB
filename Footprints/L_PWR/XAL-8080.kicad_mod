@@ -1,6 +1,6 @@
-(footprint "XAL_8080" (version 20211014) (generator pcbnew)
+(footprint "XAL-8080" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62377591)
+  (tedit 6266E55C)
   (descr "XAL_8080")
   (tags "XAL_8080")
   (attr smd)
@@ -17,7 +17,7 @@
   (fp_rect (start -4.51 -4.8) (end 4.59 4.8) (layer "F.Fab") (width 0.1) (fill none) (tstamp bdc63336-d308-429c-919f-3178d21cc524))
   (pad "1" smd rect (at -2.56 0) (size 1.78 7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 43c8e238-d708-4989-b6eb-6bf5d801b07f))
   (pad "2" smd rect (at 2.6 0) (size 1.78 7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 70d4fb28-e842-454d-a879-39e52579517f))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/L_PWR/XAL8080.STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/L_PWR/XAL8080.STEP"
     (offset (xyz 0.0254 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

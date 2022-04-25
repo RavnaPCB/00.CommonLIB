@@ -1,6 +1,6 @@
 (footprint "R_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223FA67)
+  (tedit 6266E8AA)
   (descr "R_0805")
   (tags "R_0805")
   (attr smd)
@@ -21,7 +21,7 @@
   (fp_rect (start -1.6 -0.85) (end 1.6 0.85) (layer "F.Fab") (width 0.0508) (fill none) (tstamp 5cbc03a0-001e-438b-90e5-a85c0499d5fa))
   (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902) (tstamp 9702d628-9b91-4d58-9130-9271bd872f5b))
   (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902) (tstamp 1ad1544b-7ba3-4927-93fd-ab9c0a8dba06))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Resistor/R_0805.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Resistor/R_0805.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

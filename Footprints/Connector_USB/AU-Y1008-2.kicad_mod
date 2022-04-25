@@ -1,6 +1,6 @@
 (footprint "AU-Y1008-2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622628E0)
+  (tedit 6266E4B6)
   (attr through_hole)
   (fp_text reference "REF**" (at 3.500001 6.5) (layer "F.Fab")
     (effects (font (size 0.508 0.508) (thickness 0.1016)))
@@ -31,7 +31,7 @@
   (pad "9" thru_hole circle (at -3.069999 -0.35) (size 3.048 3.048) (drill 2.3114) (layers *.Cu *.Mask) (tstamp 7b13ca3a-1e18-4d5a-be34-eb784a5b5e74))
   (pad "9" thru_hole circle (at 10.07 5.33) (size 3.048 3.048) (drill 2.3114) (layers *.Cu *.Mask) (tstamp 7c4a1ea4-ae31-4403-b63c-d43b4fbe8e81))
   (pad "9" thru_hole circle (at 10.07 -0.35) (size 3.048 3.048) (drill 2.3114) (layers *.Cu *.Mask) (tstamp b1ccf5f5-104d-4b5a-861d-5cc409747b84))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/USB/SS-52100-003.STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Connector_USB/SS-52100-003.STEP"
     (offset (xyz 3.4798 -5.334 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

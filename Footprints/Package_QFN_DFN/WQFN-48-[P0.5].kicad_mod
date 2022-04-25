@@ -1,6 +1,6 @@
 (footprint "WQFN-48-[P0.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6264235C)
+  (tedit 6266E60B)
   (descr "WQFN-48-[P0.5]")
   (tags "WQFN-48-[P0.5]")
   (attr through_hole)
@@ -169,7 +169,7 @@
   (pad "47" smd rect (at -2.250001 -3.4036) (size 0.254 0.6096) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8b921e09-818e-491b-9075-5ec9b8b3f97f))
   (pad "48" smd rect (at -2.75 -3.4036) (size 0.254 0.6096) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9c45d2d6-1e32-447d-aa25-5d758ff294ee))
   (pad "49" smd rect (at 0 0) (size 5.1054 5.1054) (layers "F.Cu" "F.Mask") (tstamp 44d8ab1d-daab-4794-aee8-57100d7c336c))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_QFN_DFN/WQFN-48-[P0.5].stp"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_QFN_DFN/WQFN-48-[P0.5].stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

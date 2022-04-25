@@ -1,6 +1,6 @@
 (footprint "CP_2312" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642449)
+  (tedit 6266E0AE)
   (descr "CP_2312")
   (tags "CP_2312")
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_rect (start -3.45 0.22) (end -3.000001 -0.22) (layer "F.Fab") (width 0.1524) (fill solid) (tstamp bf71cab7-b8b5-4274-9fbb-15cd46253502))
   (pad "1" smd roundrect (at -2.435 0) (size 2.24 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.29) (tstamp 7ff65ed8-7cda-4f12-b5bd-b373889928ec))
   (pad "2" smd roundrect (at 2.435 0) (size 2.24 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.29) (tstamp c499fb15-6a79-44ac-a482-e5f56ebd7e0a))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Capacitor_P/CP_2312.step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Capacitor_P/CP_2312.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

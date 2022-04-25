@@ -1,6 +1,6 @@
 (footprint "SON-[5x6]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626422C4)
+  (tedit 6266E680)
   (descr "SON-[5x6]")
   (tags "SON-[5x6]")
   (attr smd)
@@ -109,7 +109,7 @@
   (pad "7" smd rect (at 2.810035 -0.635) (size 0.779928 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d4d65046-2c3d-48af-af2f-486b62e751e3))
   (pad "8" smd rect (at 2.810035 -1.905) (size 0.779928 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7a30ea8-eaae-4bb3-aaa2-e4a02c993cfe))
   (pad "8" smd rect (at 0.62 0) (size 4.339999 4.460001) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e74c5e37-c4b2-4ecb-bff4-6f7e1c448d91))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SON/SON-[5x6].iges"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SON/SON-[5x6].iges"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

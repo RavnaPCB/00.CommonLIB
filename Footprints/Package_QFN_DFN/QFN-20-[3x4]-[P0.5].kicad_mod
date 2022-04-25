@@ -1,6 +1,6 @@
 (footprint "QFN-20-[3x4]-[P0.5]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626423A8)
+  (tedit 6266E5DA)
   (descr "QFN-20-[3x4]-[P0.5]")
   (tags "QFN-20-[3x4]-[P0.5]")
   (attr smd)
@@ -49,7 +49,7 @@
   (pad "19" smd roundrect (at -0.25 -1.95) (size 0.25 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dcedd089-6ea4-42a3-9158-908621818562))
   (pad "20" smd roundrect (at -0.75 -1.95) (size 0.25 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 146b73d9-1b28-4b47-96d6-98c301b64db3))
   (pad "21" smd rect (at 0 0) (size 1.65 2.65) (layers "F.Cu" "F.Mask") (tstamp dd332393-8090-4b3e-9bb1-ffdee3051227))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_QFN_DFN/QFN-20-[3x4]-[P0.5].step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_QFN_DFN/QFN-20-[3x4]-[P0.5].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

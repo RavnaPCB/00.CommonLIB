@@ -1,6 +1,6 @@
 (footprint "R_2512" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622E18D9)
+  (tedit 6266E8B3)
   (descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "resistor")
   (attr smd)
@@ -21,7 +21,7 @@
   (fp_rect (start -3.75 -1.85) (end 3.75 1.85) (layer "F.Fab") (width 0.0508) (fill none) (tstamp 4b6f7a76-2b22-4f7a-8f2d-6d4e8dba7197))
   (pad "1" smd roundrect (at -2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp 85a182cd-6354-48c2-8a93-32f4a4e239aa))
   (pad "2" smd roundrect (at 2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp 5e98c8d6-3754-4467-901a-5d1d849a64da))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Resistor/R_2512.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Resistor/R_2512.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

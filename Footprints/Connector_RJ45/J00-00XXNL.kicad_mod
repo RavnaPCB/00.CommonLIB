@@ -1,6 +1,6 @@
 (footprint "J00-00XXNL" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223FAFB)
+  (tedit 6266E438)
   (descr "StarJack<p>1x1 Tab-DOWN RJ45")
   (attr through_hole)
   (fp_text reference "REF**" (at 0.05 0 180) (layer "F.Fab")
@@ -30,12 +30,12 @@
   (pad "12" thru_hole circle (at -6.35 -3.3782) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask) (tstamp 8d3b199a-c519-4ab3-ad68-6924432e159e))
   (pad "S1" thru_hole circle (at -7.874 3.048) (size 2.4384 2.4384) (drill 1.6256) (layers *.Cu *.Mask) (tstamp f1934c62-5782-4571-a2c5-aaca4df29b98))
   (pad "S2" thru_hole circle (at 7.874 3.048) (size 2.4384 2.4384) (drill 1.6256) (layers *.Cu *.Mask) (tstamp ab548352-0768-4148-849d-f8cae7c892bd))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/RJ45/J00-0065NL.STEP" hide
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/RJ45/J00-0065NL.STEP" hide
     (offset (xyz 0 10.541 6.858))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/RJ45/J00-0065NL.STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/RJ45/J00-0065NL.STEP"
     (offset (xyz 0 10.541 6.858))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

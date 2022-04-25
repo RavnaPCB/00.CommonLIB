@@ -1,6 +1,6 @@
 (footprint "D_0402" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62387162)
+  (tedit 6266E4E9)
   (descr "D_0402")
   (tags "D_0402")
   (attr smd)
@@ -24,12 +24,7 @@
   (fp_rect (start -0.7 0.25) (end -0.4 -0.24) (layer "F.Fab") (width 0.1524) (fill solid) (tstamp ceb94715-62d2-4d4f-8910-168a4b54e4a6))
   (pad "1" smd roundrect (at -0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2672dea0-17e0-4ef6-b8fc-0c6bbed59bed))
   (pad "2" smd roundrect (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 780dc7a4-7a9a-4595-b642-26cfcece8144))
-  (model "C:/OSOH_PLC/0.Common_LIB/00.Common_Step/R_0402.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Resistor/R_0402.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Resistor/R_0402.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

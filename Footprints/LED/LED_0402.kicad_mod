@@ -1,6 +1,6 @@
 (footprint "LED_0402" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223F703)
+  (tedit 6266E51C)
   (descr "LED_0402")
   (tags "LED_0402")
   (attr smd)
@@ -24,7 +24,7 @@
   (fp_rect (start -0.7 0.25) (end -0.450001 -0.24) (layer "F.Fab") (width 0.1524) (fill solid) (tstamp 9a9a7510-b2a5-43df-8d9d-d3aaa288fb46))
   (pad "1" smd roundrect (at -0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 653308b4-f828-4e3f-9365-b284cd671332))
   (pad "2" smd roundrect (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bd3d6489-7cd4-4906-8713-2c9237fa3b4d))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/LED/LED_0402.wrl"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/LED/LED_0402.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

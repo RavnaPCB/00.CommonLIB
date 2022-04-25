@@ -1,6 +1,6 @@
 (footprint "WSON-08-[4x4]-[P0.8]" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62642295)
+  (tedit 6266E69D)
   (descr "WSON-08-[4x4]-[P0.8]")
   (tags "WSON-08-[4x4]-[P0.8]")
   (attr through_hole)
@@ -179,7 +179,7 @@
   (pad "7" smd rect (at 1.875 -0.399999 90) (size 0.299999 0.599999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d54f4636-e984-4794-8492-f447ad07da6f))
   (pad "8" smd rect (at 1.875 -1.2 90) (size 0.299999 0.599999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e651bfc9-d44e-4745-831d-e8c5da640193))
   (pad "9" smd rect (at 0 0 90) (size 2.999999 2.6) (layers "F.Cu" "F.Mask") (tstamp 41ee7f00-1ecc-4c2a-af85-07e453b5c7a9))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_SON/WSON-08-[4x4]-[P0.8].step"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Package_SON/WSON-08-[4x4]-[P0.8].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

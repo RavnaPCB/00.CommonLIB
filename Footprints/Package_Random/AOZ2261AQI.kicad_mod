@@ -1,6 +1,6 @@
 (footprint "AOZ2261AQI" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6225376E)
+  (tedit 6266E628)
   (descr "AOZ2261AQI")
   (tags "AOZ2261AQI")
   (attr through_hole)
@@ -138,9 +138,4 @@
   (pad "20" smd rect (at 0.25019 -1.82499) (size 0.254 0.4572) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 16562ae1-eac3-47a8-aa55-1ca043ab282c))
   (pad "21" smd rect (at -0.25019 -1.82499) (size 0.254 0.4572) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8f838769-4087-48eb-8a89-4ef3953a39fd))
   (pad "22" smd rect (at -1.25095 -1.82499) (size 0.254 0.4572) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6c192ec-a291-4018-bcf7-a0f59421e2a0))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Package_QFN_DFN/QFN-24-1EP_4x4.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

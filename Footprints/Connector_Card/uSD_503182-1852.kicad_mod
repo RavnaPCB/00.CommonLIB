@@ -1,6 +1,6 @@
 (footprint "uSD_503182-1852" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223F63C)
+  (tedit 6266E3DF)
   (descr "uSD_503182-1852")
   (tags "uSD_503182-1852")
   (attr smd)
@@ -42,7 +42,7 @@
   (pad "P4" smd rect (at -2.84 6.4) (size 1.5 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dae799f7-7d1f-4769-aaf1-65d67e30d4f4))
   (pad "P5" smd rect (at 4.94 6.4) (size 1.5 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a808062a-6ca5-4ad9-8d3d-eb93f8dbc6a0))
   (pad "SW" smd rect (at 6.74 -3.725) (size 1.16 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1111337e-b172-4cb8-a3d3-b7c5e32393d3))
-  (model "C:/OSOH_PLC/0.Common_LIB/3DCAD/Connector_Card/uSD_503182-1852.STEP"
+  (model "C:/OSOH.GitHub/00.CommonLIB/3DCAD/Connector_Card/uSD_503182-1852.STEP"
     (offset (xyz 0 -6.7 1.45))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

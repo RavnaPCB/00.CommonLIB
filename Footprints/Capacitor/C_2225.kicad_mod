@@ -1,6 +1,6 @@
 (footprint "C_2225" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6223DEEF)
+  (tedit 6266E081)
   (descr "C_2225")
   (tags "C_2225")
   (attr smd)
@@ -21,9 +21,4 @@
   (fp_rect (start -3.500001 -3.450001) (end 3.500001 3.450001) (layer "F.Fab") (width 0.0508) (fill none) (tstamp 2082a873-267c-48ef-86c2-aa987662055d))
   (pad "1" smd roundrect (at -2.5375 0) (size 1.625 6.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.153846) (tstamp 7f295994-a10d-409a-bc89-dcbca88ad303))
   (pad "2" smd roundrect (at 2.5375 0) (size 1.625 6.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.153846) (tstamp bc3cba9e-20ac-41f9-8306-f88093af4806))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_2225_5664Metric.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
